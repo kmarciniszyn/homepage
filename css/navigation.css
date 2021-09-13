@@ -1,0 +1,30 @@
+.navigation {
+    background-color: #3A2013;
+    padding: 10px;
+    width: 100%;
+}
+
+.navigation__list {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.navigation__item {
+    margin: 20px;
+}
+
+.navigation__link {
+    color: white;
+    text-decoration: none;    
+    padding: 10px;
+}
+
+.navigation__link:hover {
+    background-color: white;
+    color: #3A2013;
+    border-radius: 30px;
+}
+
+.navigation__link:active {
+    color: #a15e01;
+}

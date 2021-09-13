@@ -1,0 +1,16 @@
+.footer {
+    color: #777;
+}
+
+.footer__link {
+    color: #532e1c;
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    color: #0049a3;
+}
+
+.footer__link:active {
+    color: #001bd9;
+}

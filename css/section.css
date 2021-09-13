@@ -1,0 +1,26 @@
+.section__header {
+    color: #a15e01;
+}
+
+.section__button {
+    color: #a15e01;
+    background-color: white;
+    border: 1px #ddd;
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.section__button:hover {
+    box-shadow: 2px 2px 10px -2px #c9c9c9;
+    color: #3A2013;
+}
+
+.section__image--hidden {
+    visibility: hidden;
+}
+
+.section__image {
+    width: 100%;
+    max-width: 400px;
+}
